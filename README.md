@@ -6,7 +6,7 @@ It was announced in May 19th, 2021 & released in June 2021.
 
 ## Device specifications
 
-|      Basic | Spec Sheet                                                        |
+|     Device | Lenovo Tab K10                                                    |
 | ---------: | :---------------------------------------------------------------- |
 |        SoC | Mediatek MT6762 Helio P22T (12 nm)                                |
 |        CPU | Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)           |
